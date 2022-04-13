@@ -1,0 +1,61 @@
+=========
+CHANGELOG
+=========
+
+1.10 (unreleased)
+=================
+
+- Nothing changed yet.
+
+
+1.9 (2018-10-18)
+================
+
+* Fix issue #3 that update and pop now work correctly on EasyDicts.
+
+
+1.8 (2018-08-17)
+================
+
+* Update package classifiers.
+
+
+1.7 (2017-04-27)
+================
+
+* Prevent copying sub-EasyDicts on assignment to fix unpickling (#7, thanks @Chronos-Sk)
+
+1.6 (2015-01-27)
+================
+
+* Allow setting attributes via setting items (thanks phivos)
+
+1.5 (2014-08-07)
+================
+
+* Allow subclassing using self instead of class name (thanks Steve Engledow)
+
+1.4 (2011-03-13)
+================
+
+* Access class attributes like instance attributes
+
+1.3 (2012-02-08)
+================
+
+* Better documentation and tests
+
+1.2 (2011-06-08)
+================
+
+* Fix inclusion of README
+
+1.1 (2012-04-21)
+================
+
+* Switch to distutils2
+
+1.0 (2011-04-18)
+================
+
+* Initial working version
